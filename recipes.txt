@@ -1,2 +1,6 @@
 Pasta Recipe: Cook pasta for 10 minutes.
+<<<<<<< HEAD
 Boil the pasta for 12 minutes.
+=======
+Add 1 tbsp of olive oil to the pasta.
+>>>>>>> roguechef
